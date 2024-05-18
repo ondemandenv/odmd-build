@@ -12,4 +12,4 @@ inputs:
       aws_session_token=xyz
 runs:
   using: node20
-  main: dist/main.js
+  main: main.js
